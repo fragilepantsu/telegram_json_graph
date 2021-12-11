@@ -12,6 +12,6 @@ The line " remove_nodes = ['user1', 'user2']" is responsible for removing vertic
 
 By default, the script saves the result for Gephi in the line " networkx.write_gexf(G, 'FILE NAME.gexf') "
 
-# Лицензия и распространение
+# License & Distribution
 You can use this script however you want without attribution or source. I guess if you open a huge corporation to create telegram chat graphs, I won't sue you for using this code. I don't care.
 
