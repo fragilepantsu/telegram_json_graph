@@ -101,7 +101,7 @@ def CountUserRepliesTo(user, ruser):
 
 
 CreateNeighboursDict()
-# remove_nodes = ['Новости Боруса', 'Борус']
+# remove_nodes = ['user1', 'user2']
 # G.remove_nodes_from(remove_nodes)
 # nx.draw_networkx(G, node_size=300, node_color='#73a7fa', edge_color='#e8e8e8', with_labels=True, font_size=5)
 print('------------------ FINISHED ------------------')
